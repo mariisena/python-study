@@ -1,0 +1,1 @@
+print('- Data de hoje: 24/09/2024\n- Como você está se sentindo agora: Um pouco cansada 😅\n- O que você quer alcançar ao aprender a programar: criar joguinhos e apps\n- Uma pequena mensagem para você, que é mais velho, mais sábio e mais programador: Tenha paciência, vai dar certo\n- Seu emoji favorito: 🤩')

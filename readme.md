@@ -1,0 +1,1 @@
+Olá, esse é o meu aprendizado com Python na faculdade, tentando evoluir também usando vídeos disponíveis na internet e por meio de livros.

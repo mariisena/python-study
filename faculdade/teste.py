@@ -5,3 +5,7 @@ print("-" * 25)
 for f in range(45, 81):
     c = 5 * (f - 32) / 9
     print(f"{f:^10.1f} | {c:^10.3f}")
+
+#teste 1
+
+#teste 2
